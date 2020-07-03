@@ -1,0 +1,21 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+*.pem
+*.keys
+
+.DS_Store
+
+
+*.zip
+*.tar
+*.tar.gz
+*.cert
+*.ssh
